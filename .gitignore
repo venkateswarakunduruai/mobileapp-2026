@@ -1,0 +1,22 @@
+﻿# Backend
+backend/.metadata/
+backend/**/.settings/
+backend/**/target/
+backend/**/*.class
+
+# Frontend
+project frontend/node_modules/
+project frontend/dist/
+
+# Firebase
+.firebase/
+.firebaserc
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
